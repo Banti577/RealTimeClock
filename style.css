@@ -8,7 +8,7 @@
 body {}
 
 .main-clock {
-    background-image: url(img/clock-img.jpg);
+    background-image: url(clock-img.jpg);
     width: 90%;
     height: 1000px;
     background-repeat: no-repeat;
